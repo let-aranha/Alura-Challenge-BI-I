@@ -13,6 +13,6 @@ O primeiro desafio proposto pela Alura através do [Challenge BI](https://www.al
 Dashboard:
 ![image](https://user-images.githubusercontent.com/76560513/133004154-1267d366-fb3e-4151-b535-d11659c57fd9.png)
 
-[Link de acesso ao relatório online](https://app.powerbi.com/groups/me/reports/8299d872-05f0-43d5-81d2-b1335a5fcf92?ctid=5894b841-8b59-454b-8a26-648e79cf1997&pbi_source=linkShare)
+[Link de acesso ao relatório online](https://app.powerbi.com/view?r=eyJrIjoiMmY5YmE2MmMtNjBkNS00N2YwLWIwOGQtNjhhMmY0NGRlYzhhIiwidCI6IjU4OTRiODQxLThiNTktNDU0Yi04YTI2LTY0OGU3OWNmMTk5NyJ9)
 
 # Criação do Report
